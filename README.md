@@ -1,4 +1,4 @@
-# Quantitative Investment Platform - GUI Extension
+# Quantitative Investment Platform - GUI Extension [中文](https://github.com/hengruiyun/qlib-gui/blob/main/README_cn.md)
 
 A modern, user-friendly web interface for quantitative investment research and analysis, built on top of Microsoft's [Qlib](https://github.com/microsoft/qlib) framework.
 
