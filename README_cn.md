@@ -5,7 +5,7 @@
 OSM：这是全AI 开发的软件
 AI驱动的软件开发代表了技术革新的重要里程碑。通过AI完整开发OSM这样的实用工具，我们展示了人工智能在代码生成、系统设计和问题解决方面的卓越能力。这种开发模式不仅提高了效率，降低了传统开发中的人力成本和时间投入，还能确保代码质量的一致性。AI能够快速吸收最佳实践，避免常见错误，并提供创新解决方案。人工智能与软件工程融合的有力证明，揭示了未来开发范式的转变方向。
 
-![主界面1](qlib_cn1.png)
+![qlib_cn1](https://github.com/user-attachments/assets/6651b491-388d-445e-b798-c1485bde3e28)
 
 ## 功能特性
 
@@ -48,7 +48,8 @@ AI驱动的软件开发代表了技术革新的重要里程碑。通过AI完整�
 - **自动检测**：基于系统/浏览器设置自动切换语言
 - **手动切换**：专用按钮轻松切换语言
 
-![主界面2](qlib_cn2.png)
+![qlib_cn2](https://github.com/user-attachments/assets/8f4b65c3-d400-4c73-880c-74f5abc26fb9)
+
 
 ## 快速开始
 
@@ -60,7 +61,7 @@ AI驱动的软件开发代表了技术革新的重要里程碑。通过AI完整�
 
 1. **克隆仓库**：
    ```bash
-   git clone https://gitee.com/ai2ai/qlib-gui.git
+   git clone https://github.com/hengruiyun/qlib-gui.git
    cd qlib-gui
    ```
 
