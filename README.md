@@ -5,6 +5,7 @@ A modern, user-friendly web interface for quantitative investment research and a
 OSM: Fully Developed by AI
 AI-driven software development represents a significant milestone in technological innovation. Through the complete development of practical tools like OSM using AI, we demonstrate artificial intelligence's exceptional capabilities in code generation, system design, and problem-solving. This development approach not only improves efficiency, reduces human resource costs and time investment in traditional development, but also ensures consistency in code quality. AI can quickly absorb best practices, avoid common errors, and provide innovative solutions. It serves as powerful evidence of the integration between artificial intelligence and software engineering, revealing the direction of paradigm shifts in future development.
 
+![qlib_en1](https://github.com/user-attachments/assets/44213f43-a4b6-41a9-b189-b7c9c2e467c5)
 
 ## Features
 
@@ -46,6 +47,8 @@ AI-driven software development represents a significant milestone in technologic
 - **Multi-language Support**: English and Chinese interfaces
 - **Auto-detection**: Automatic language switching based on system/browser settings
 - **Manual Override**: Easy language switching with dedicated buttons
+
+![qlib_en2](https://github.com/user-attachments/assets/46f5e31e-7272-404d-a68a-fee7563caac0)
 
 
 ## Quick Start
