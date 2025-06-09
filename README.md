@@ -67,11 +67,11 @@ AI-driven software development represents a significant milestone in technologic
 
 2. **Run the GUI**:
    ```bash
-   .\gui.bat
+   gui
    ```
 
 3. **Access the application**:
-   Open your browser and navigate to `http://localhost:8502`
+   Open your browser and navigate to `http://localhost:8501`
 
 ### Manual Installation
 
